@@ -28,8 +28,7 @@ Le projet est hébergé sur GitHub Pages. Vous pouvez l'essayer directement [ici
 - **JavaScript** : Logique et dynamisme du quiz (génération des questions, calcul du score, interaction utilisateur).
 
 ## 📸 Aperçu du projet
-
-<img src="ton-lien-vers-image.png" alt="Aperçu du quiz JavaScript" width="600" />
+![Aperçu de Elegant-Context](/public/img1.png)
 
 ## 📂 Installation locale
 
